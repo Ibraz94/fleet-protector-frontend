@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":["file:///D:/next-shadcn-dashboard-starter/src/features/profile/components/profile-view-page.tsx"],"sourcesContent":["import { UserProfile } from '@clerk/nextjs';\r\n\r\nexport default function ProfileViewPage() {\r\n  return (\r\n    <div className='flex w-full flex-col p-4'>\r\n      <UserProfile />\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC,sLAAA,CAAA,cAAW;;;;;;;;;;AAGlB","debugId":null}},
+    {"offset": {"line": 72, "column": 0}, "map": {"version":3,"sources":["file:///D:/next-shadcn-dashboard-starter/src/app/dashboard/profile/%5B%5B...profile%5D%5D/page.tsx"],"sourcesContent":["import ProfileViewPage from '@/features/profile/components/profile-view-page';\r\n\r\nexport const metadata = {\r\n  title: 'Dashboard : Profile'\r\n};\r\n\r\nexport default async function Page() {\r\n  return <ProfileViewPage />;\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEO,MAAM,WAAW;IACtB,OAAO;AACT;AAEe,eAAe;IAC5B,qBAAO,8OAAC,oKAAA,CAAA,UAAe;;;;;AACzB","debugId":null}}]
+}

@@ -1,0 +1,8 @@
+{
+  "/dashboard/overview/@sales/page": "app/dashboard/overview/@sales/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/product/[productId]/page": "app/dashboard/product/[productId]/page.js",
+  "/dashboard/product/page": "app/dashboard/product/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}

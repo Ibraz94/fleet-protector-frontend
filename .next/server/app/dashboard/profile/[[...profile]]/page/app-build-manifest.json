@@ -1,0 +1,37 @@
+{
+  "pages": {
+    "/dashboard/profile/[[...profile]]/page": [
+      "static/chunks/node_modules_next_dist_6284f7f1._.js",
+      "static/chunks/src_app_favicon_ico_mjs_5ec0cc52._.js",
+      "static/chunks/8069e_@clerk_nextjs_dist_esm_app-router_client_keyless-creator-reader_da882175.js",
+      "static/chunks/node_modules_0c7b4b46._.js",
+      "static/chunks/src_components_640d814c._.js",
+      "static/chunks/[root-of-the-server]__510d849c._.css",
+      "static/chunks/src_app_layout_tsx_9113dd73._.js",
+      "static/chunks/node_modules_6019879d._.js",
+      "static/chunks/src_40a875c6._.js",
+      "static/chunks/src_app_not-found_tsx_b198f9a3._.js",
+      "static/chunks/_e5ae3868._.js",
+      "static/chunks/src_app_global-error_tsx_b198f9a3._.js",
+      "static/chunks/src_30975459._.js",
+      "static/chunks/node_modules_6408d4a7._.js",
+      "static/chunks/src_app_dashboard_layout_tsx_b198f9a3._.js",
+      "static/chunks/node_modules_@clerk_nextjs_dist_esm_client-boundary_5c3cad18._.js",
+      "static/chunks/src_app_dashboard_profile_[[___profile]]_page_tsx_a35fa89e._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_81c513eb._.js",
+      "static/chunks/node_modules_next_dist_compiled_dae1c9ab._.js",
+      "static/chunks/node_modules_next_dist_client_b1e29c8f._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_4b0cf7fc._.js",
+      "static/chunks/node_modules_next_dist_eb2b6a21._.js",
+      "static/chunks/node_modules_next_router_7ab374bf.js",
+      "static/chunks/node_modules_@sentry_core_build_esm_91422610._.js",
+      "static/chunks/node_modules_@sentry_browser_build_npm_esm_68108085._.js",
+      "static/chunks/node_modules_@sentry-internal_browser-utils_build_esm_bd5e1f77._.js",
+      "static/chunks/node_modules_@sentry-internal_replay_build_npm_esm_index_59148d8f.js",
+      "static/chunks/node_modules_af36bef2._.js",
+      "static/chunks/src_instrumentation-client_ts_4aba9a11._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_c74894e6._.js"
+    ]
+  }
+}
